@@ -2,4 +2,3 @@ glfw
 PyOpenGL
 numpy
 Pillow
-yaml
